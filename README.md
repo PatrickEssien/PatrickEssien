@@ -30,7 +30,7 @@ Javascript, HTML, CSS... Djhango
 
 ## Run Locally
 
-Clone the project
+Clone the projects
 
 ```bash
   git clone https://link-to-project
